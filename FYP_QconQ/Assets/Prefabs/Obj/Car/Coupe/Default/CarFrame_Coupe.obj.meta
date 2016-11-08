@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 1747f341ef682a045b3095d8af7bb21b
+timeCreated: 1469591553
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Full_Car:CarFrame1
+    100004: Full_Car:FrontBumper
+    100006: Full_Car:FrontDoor_Left
+    100008: Full_Car:FrontDoor_Right
+    100010: Full_Car:FrontFender_Left
+    100012: Full_Car:FrontFender_Right
+    100014: Full_Car:Grill
+    100016: Full_Car:Headlight_Left
+    100018: Full_Car:Headlight_Right
+    100020: Full_Car:Interior
+    100022: Full_Car:polySurface142
+    100024: Full_Car:RearBumper
+    100026: Full_Car:RearFender_Left
+    100028: Full_Car:RearFender_Right
+    100030: Full_Car:Roof
+    100032: Full_Car:SideMirror_Left
+    100034: Full_Car:SideMirror_Right
+    100036: Full_Car:SideSkirt
+    100038: Full_Car:Taillight_Left
+    100040: Full_Car:Taillight_Right
+    100042: Full_Car:Window_Left
+    100044: Full_Car:Window_Right
+    100046: Full_Car:WindowA_Left
+    100048: Full_Car:WindowA_Right
+    100050: Full_Car:Windsheild_Back
+    100052: Full_Car:Windsheild_Front
+    400000: //RootNode
+    400002: Full_Car:CarFrame1
+    400004: Full_Car:FrontBumper
+    400006: Full_Car:FrontDoor_Left
+    400008: Full_Car:FrontDoor_Right
+    400010: Full_Car:FrontFender_Left
+    400012: Full_Car:FrontFender_Right
+    400014: Full_Car:Grill
+    400016: Full_Car:Headlight_Left
+    400018: Full_Car:Headlight_Right
+    400020: Full_Car:Interior
+    400022: Full_Car:polySurface142
+    400024: Full_Car:RearBumper
+    400026: Full_Car:RearFender_Left
+    400028: Full_Car:RearFender_Right
+    400030: Full_Car:Roof
+    400032: Full_Car:SideMirror_Left
+    400034: Full_Car:SideMirror_Right
+    400036: Full_Car:SideSkirt
+    400038: Full_Car:Taillight_Left
+    400040: Full_Car:Taillight_Right
+    400042: Full_Car:Window_Left
+    400044: Full_Car:Window_Right
+    400046: Full_Car:WindowA_Left
+    400048: Full_Car:WindowA_Right
+    400050: Full_Car:Windsheild_Back
+    400052: Full_Car:Windsheild_Front
+    2300000: Full_Car:CarFrame1
+    2300002: Full_Car:FrontBumper
+    2300004: Full_Car:FrontDoor_Left
+    2300006: Full_Car:FrontDoor_Right
+    2300008: Full_Car:FrontFender_Left
+    2300010: Full_Car:FrontFender_Right
+    2300012: Full_Car:Grill
+    2300014: Full_Car:Headlight_Left
+    2300016: Full_Car:Headlight_Right
+    2300018: Full_Car:Interior
+    2300020: Full_Car:polySurface142
+    2300022: Full_Car:RearBumper
+    2300024: Full_Car:RearFender_Left
+    2300026: Full_Car:RearFender_Right
+    2300028: Full_Car:Roof
+    2300030: Full_Car:SideMirror_Left
+    2300032: Full_Car:SideMirror_Right
+    2300034: Full_Car:SideSkirt
+    2300036: Full_Car:Taillight_Left
+    2300038: Full_Car:Taillight_Right
+    2300040: Full_Car:Window_Left
+    2300042: Full_Car:Window_Right
+    2300044: Full_Car:WindowA_Left
+    2300046: Full_Car:WindowA_Right
+    2300048: Full_Car:Windsheild_Back
+    2300050: Full_Car:Windsheild_Front
+    3300000: Full_Car:CarFrame1
+    3300002: Full_Car:FrontBumper
+    3300004: Full_Car:FrontDoor_Left
+    3300006: Full_Car:FrontDoor_Right
+    3300008: Full_Car:FrontFender_Left
+    3300010: Full_Car:FrontFender_Right
+    3300012: Full_Car:Grill
+    3300014: Full_Car:Headlight_Left
+    3300016: Full_Car:Headlight_Right
+    3300018: Full_Car:Interior
+    3300020: Full_Car:polySurface142
+    3300022: Full_Car:RearBumper
+    3300024: Full_Car:RearFender_Left
+    3300026: Full_Car:RearFender_Right
+    3300028: Full_Car:Roof
+    3300030: Full_Car:SideMirror_Left
+    3300032: Full_Car:SideMirror_Right
+    3300034: Full_Car:SideSkirt
+    3300036: Full_Car:Taillight_Left
+    3300038: Full_Car:Taillight_Right
+    3300040: Full_Car:Window_Left
+    3300042: Full_Car:Window_Right
+    3300044: Full_Car:WindowA_Left
+    3300046: Full_Car:WindowA_Right
+    3300048: Full_Car:Windsheild_Back
+    3300050: Full_Car:Windsheild_Front
+    4300000: Full_Car:CarFrame1
+    4300002: Full_Car:FrontBumper
+    4300004: Full_Car:FrontDoor_Left
+    4300006: Full_Car:FrontDoor_Right
+    4300008: Full_Car:FrontFender_Left
+    4300010: Full_Car:FrontFender_Right
+    4300012: Full_Car:Grill
+    4300014: Full_Car:Headlight_Left
+    4300016: Full_Car:Headlight_Right
+    4300018: Full_Car:Interior
+    4300020: Full_Car:polySurface142
+    4300022: Full_Car:RearBumper
+    4300024: Full_Car:RearFender_Left
+    4300026: Full_Car:RearFender_Right
+    4300028: Full_Car:Roof
+    4300030: Full_Car:SideMirror_Left
+    4300032: Full_Car:SideMirror_Right
+    4300034: Full_Car:SideSkirt
+    4300036: Full_Car:Taillight_Left
+    4300038: Full_Car:Taillight_Right
+    4300040: Full_Car:Window_Left
+    4300042: Full_Car:Window_Right
+    4300044: Full_Car:WindowA_Left
+    4300046: Full_Car:WindowA_Right
+    4300048: Full_Car:Windsheild_Back
+    4300050: Full_Car:Windsheild_Front
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

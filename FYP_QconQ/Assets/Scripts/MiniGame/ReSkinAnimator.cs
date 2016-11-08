@@ -1,0 +1,23 @@
+﻿using UnityEngine;
+using System;
+
+public class ReSkinAnimator : MonoBehaviour {
+
+    public string spriteSheetName;
+
+    void LateUpdate()
+    {
+
+        var subSprites = Resources.LoadAll<Sprite>("Characters/" + spriteSheetName);
+
+        foreach (var renderer in GetComponentsInChildren<SpriteRenderer>())
+        {
+            //Debug.Log(renderer.sprite.name);
+            string spriteName = renderer.sprite.name;
+            var newSprite = Array.Find(subSprites, item => item.name == spriteName);
+
+            if (newSprite)
+                renderer.sprite = newSprite;
+        }
+    }
+}

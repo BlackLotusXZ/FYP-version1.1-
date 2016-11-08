@@ -1,0 +1,4 @@
+cron:
+- description: reset server data
+  url: /resetserver
+  schedule: every 720 hours

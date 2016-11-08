@@ -1,0 +1,31 @@
+<html>
+  <head>
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+  </head>
+  <body>
+	Has the server been reset: +{{isReset}}+ <br><br>
+	
+	For Unity:<br>
+	{% for stat in stats%}
+		[Nickname: {{stat.nickname}}, Attempts: {{stat.attempts}}]<br>
+	{% endfor %}
+  
+	<!--
+	HTML HELP
+	
+	<b>: Bold tag
+	<br>: Line Break tag
+	-->
+	<br><br><b>For reading purposes: 
+	{% for stat in stats %}
+		<br>======================================
+		<br><b>DeviceID: {{stat.deviceID}}</b>
+		<br><b>Nickname: {{stat.nickname}}</b>
+		<br><b>Attempts: {{stat.attempts}}</b>
+		<br><b>Time recorded: {{stat.timestamp}}</b>
+		<br>======================================
+    {% endfor %}
+
+    
+  </body>
+</html>

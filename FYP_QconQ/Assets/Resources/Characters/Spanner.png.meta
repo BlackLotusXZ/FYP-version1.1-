@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: f7ec7a6e7f6686c42a4ebf3bd93f38fb
+timeCreated: 1474948594
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spanner_0
+    21300002: Spanner_1
+    21300004: Spanner_2
+    21300006: Spanner_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spanner_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 162
+        width: 511
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 106.600006}
+        - {x: -17.5, y: 127.600006}
+        - {x: -41.5, y: 127.600006}
+        - {x: -103.5, y: 100.600006}
+        - {x: -110.5, y: 92.600006}
+        - {x: -100.5, y: 62.600006}
+        - {x: -108.5, y: 86.600006}
+        - {x: -117.5, y: 114.600006}
+        - {x: -142.5, y: 127.600006}
+        - {x: -175.5, y: 127.600006}
+        - {x: -194.5, y: 117.600006}
+        - {x: -204.5, y: 98.600006}
+        - {x: -204.5, y: 30.600006}
+        - {x: -77.5, y: -126.399994}
+        - {x: 177.5, y: -126.399994}
+        - {x: 204.5, y: -75.399994}
+        - {x: 204.5, y: -54.399994}
+        - {x: 198.5, y: -52.399994}
+    - name: Spanner_1
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 158
+        width: 504
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.79999, y: 122.4}
+        - {x: -106.79999, y: 71.4}
+        - {x: -105.79999, y: 66.4}
+        - {x: -98.79999, y: 52.4}
+        - {x: -106.79999, y: 59.4}
+        - {x: -106.79999, y: 79.4}
+        - {x: -101.79999, y: 89.4}
+        - {x: -130.79999, y: 122.4}
+        - {x: -178.79999, y: 122.4}
+        - {x: -201.79999, y: 90.4}
+        - {x: -201.79999, y: 36.4}
+        - {x: -14.799988, y: -121.6}
+        - {x: 128.20001, y: -121.6}
+        - {x: 202.20001, y: -108.6}
+        - {x: 202.20001, y: -39.6}
+        - {x: 5.200012, y: 122.4}
+    - name: Spanner_2
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 162
+        width: 524
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.599976, y: 124.600006}
+        - {x: -107.599976, y: 94.600006}
+        - {x: -110.599976, y: 85.600006}
+        - {x: -106.599976, y: 73.600006}
+        - {x: -87.599976, y: 57.600006}
+        - {x: -78.599976, y: 53.600006}
+        - {x: -73.599976, y: 51.600006}
+        - {x: -105.599976, y: 55.600006}
+        - {x: -116.599976, y: 114.600006}
+        - {x: -138.59998, y: 124.600006}
+        - {x: -189.59998, y: 124.600006}
+        - {x: -209.59998, y: 100.600006}
+        - {x: -209.59998, y: 13.600006}
+        - {x: -134.59998, y: -91.399994}
+        - {x: -39.599976, y: -123.399994}
+        - {x: 210.40002, y: -123.399994}
+        - {x: 210.40002, y: -29.399994}
+        - {x: 43.400024, y: 124.600006}
+      - - {x: -66.599976, y: 113.600006}
+        - {x: -63.599976, y: 114.600006}
+        - {x: -63.599976, y: 117.600006}
+        - {x: -66.599976, y: 118.600006}
+        - {x: -68.599976, y: 116.600006}
+    - name: Spanner_3
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 159
+        width: 533
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.29993, y: 121.700005}
+        - {x: -118.29993, y: 77.700005}
+        - {x: -118.29993, y: 65.700005}
+        - {x: -109.29993, y: 53.700005}
+        - {x: -96.29993, y: 43.700005}
+        - {x: -81.29993, y: 26.700005}
+        - {x: -116.29993, y: 59.700005}
+        - {x: -118.29993, y: 63.700005}
+        - {x: -118.29993, y: 69.700005}
+        - {x: -119.29993, y: 85.700005}
+        - {x: -121.29993, y: 97.700005}
+        - {x: -124.29993, y: 108.700005}
+        - {x: -142.29993, y: 121.700005}
+        - {x: -189.29993, y: 121.700005}
+        - {x: -175.29993, y: 102.700005}
+        - {x: -213.29993, y: 88.700005}
+        - {x: -213.29993, y: 10.700005}
+        - {x: -46.299927, y: -121.299995}
+        - {x: 213.70007, y: -121.299995}
+        - {x: 213.70007, y: -45.299995}
+        - {x: 34.700073, y: 121.700005}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
